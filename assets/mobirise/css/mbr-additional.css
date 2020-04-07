@@ -2054,152 +2054,93 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rQdXCKAkHv {
-  padding-top: 0px;
+.cid-rVs4F4b88Z {
+  padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #404040;
+  background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-rQdXCKAkHv .content {
+  .cid-rVs4F4b88Z .content {
     text-align: center;
   }
-  .cid-rQdXCKAkHv .content > div:not(:last-child) {
+  .cid-rVs4F4b88Z .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-rQdXCKAkHv .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-rQdXCKAkHv .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-rQdXCKAkHv .media-wrap img {
+.cid-rVs4F4b88Z .img-logo img {
   height: 6rem;
 }
-@media (max-width: 767px) {
-  .cid-rQdXCKAkHv .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-rVs4F4b88Z .form-group,
+.cid-rVs4F4b88Z .input-group-btn {
+  padding: 0;
 }
-.cid-rQdXCKAkHv .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
+.cid-rVs4F4b88Z .form-control {
+  font-size: .75rem;
+  text-align: center;
+  min-width: 150px;
 }
-.cid-rQdXCKAkHv .footer-lower .social-list {
+.cid-rVs4F4b88Z .input-group-btn .btn {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+  color: #fff;
+  text-align: center;
+}
+.cid-rVs4F4b88Z .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
   display: flex;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
 }
-.cid-rQdXCKAkHv .footer-lower .social-list .mbr-iconfont-social {
+.cid-rVs4F4b88Z .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rQdXCKAkHv .footer-lower .social-list .soc-item {
+.cid-rVs4F4b88Z .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rQdXCKAkHv .footer-lower .social-list a {
+.cid-rVs4F4b88Z .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rQdXCKAkHv .footer-lower .social-list a:hover {
+.cid-rVs4F4b88Z .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rQdXCKAkHv .footer-lower .social-list {
+  .cid-rVs4F4b88Z .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rQdXCKAkHv P {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-rQdXCKAkHv H5 {
-  color: #efefef;
-}
-.cid-rQe4lO1r5C {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #404040;
-}
 @media (max-width: 767px) {
-  .cid-rQe4lO1r5C .content {
-    text-align: center;
-  }
-  .cid-rQe4lO1r5C .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rQe4lO1r5C .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-rQe4lO1r5C .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-rQe4lO1r5C .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-rQe4lO1r5C .footer-lower .copyright {
+  .cid-rVs4F4b88Z .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rQe4lO1r5C .footer-lower hr {
+.cid-rVs4F4b88Z .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rQe4lO1r5C .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-rQe4lO1r5C .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-rQe4lO1r5C .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rQe4lO1r5C .footer-lower .social-list a {
+.cid-rVs4F4b88Z .form-group {
   margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rQe4lO1r5C .footer-lower .social-list a:hover {
-  opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rQe4lO1r5C .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
+  .cid-rVs4F4b88Z .foot-logo {
+    text-align: center !important;
   }
-}
-.cid-rQe4lO1r5C H5 {
-  color: #efefef;
-}
-.cid-rQe4lO1r5C P {
-  color: #efefef;
+  .cid-rVs4F4b88Z .foot-title {
+    text-align: center !important;
+  }
+  .cid-rVs4F4b88Z .mbr-text {
+    text-align: center !important;
+  }
+  .cid-rVs4F4b88Z .form-group {
+    margin: 0;
+  }
 }
